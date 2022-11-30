@@ -18,7 +18,7 @@ Conclusão: Uma vez que 70% dos clientes são de São Paulo, o Estado tem o maio
 
 O tempo médio de entrega é de 12 dias, sendo que 92,85% das entregas são entregues no prazo. Referente ao ano de maior quantidade de pedidos no prazo foi de 2016.
 
-[Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiYThhNzlhOGMtNzAxOS00MmY0LTk1MzMtZjAwM2M0YTI4YWY4IiwidCI6ImVmMDhmOTQ4LTMzNzItNDA2OC1hZTVkLTg3M2FhODViZTk5NCJ9](https://app.powerbi.com/view?r=eyJrIjoiYThhNzlhOGMtNzAxOS00MmY0LTk1MzMtZjAwM2M0YTI4YWY4IiwidCI6ImVmMDhmOTQ4LTMzNzItNDA2OC1hZTVkLTg3M2FhODViZTk5NCJ9))
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYThhNzlhOGMtNzAxOS00MmY0LTk1MzMtZjAwM2M0YTI4YWY4IiwidCI6ImVmMDhmOTQ4LTMzNzItNDA2OC1hZTVkLTg3M2FhODViZTk5NCJ9)
 
 [Linkedin](https://www.linkedin.com/in/wellington-martins-5a19638b/)
 
