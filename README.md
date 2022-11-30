@@ -12,7 +12,7 @@ Elaborei algumas análises no conjunto de dados públicos de comércio eletrôni
 Problema: Localizar regiões de maiores impactos no faturamento e promover visibilidade da situação dos pedidos.
 
 
-Dataset: Dados foram extraídos do Kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+Dataset: Dados foram extraídos do Kaggle (https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
 
 Conclusão: Uma vez que 70% dos clientes são de São Paulo, o Estado tem o maior faturamento e o menor gasto com frete em média. Quanto aos meses de maiores receita é maio e agosto.
 
