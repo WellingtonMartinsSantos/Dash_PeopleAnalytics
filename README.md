@@ -21,3 +21,4 @@ O tempo médio de entrega é de 12 dias, sendo que 92,85% das entregas são entr
 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGE5NGI4MTUtZmVmYy00MDI5LWE1NzAtMzc5MzZhY2VlZDNiIiwidCI6ImVmMDhmOTQ4LTMzNzItNDA2OC1hZTVkLTg3M2FhODViZTk5NCJ9&pageName=ReportSection8079216eb1cb308ae3e2)
 
 [Linkedin](https://www.linkedin.com/in/wellington-martins-5a19638b/)
+
