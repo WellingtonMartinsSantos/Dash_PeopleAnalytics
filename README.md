@@ -14,7 +14,7 @@ Dataset: Dados foram extraídos do Kaggle (https://www.kaggle.com/datasets/rhueb
 
 Conclusão: O Indeed/Site de empregos seguido por Linkedin são geralmente os meios que ocorrem as contratações, mas também dependendo em qual área de atuação.
 
-Pessoas que se declaram brancas têm-se expressiva dominância no mercado e a soma de seus salários passam mais da metade do total. Além de ter em todas as faixas etárias uma quantidade superior em pessoas nas organizações. 
+Pessoas que se declaram brancas tem-se dominância no mercado e a soma de seus salários passam mais da metade do total. Além de ter em todas as faixas etárias uma quantidade superior em pessoas nas organizações. 
 
 
 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYThhNzlhOGMtNzAxOS00MmY0LTk1MzMtZjAwM2M0YTI4YWY4IiwidCI6ImVmMDhmOTQ4LTMzNzItNDA2OC1hZTVkLTg3M2FhODViZTk5NCJ9&pageName=ReportSection8079216eb1cb308ae3e2)
