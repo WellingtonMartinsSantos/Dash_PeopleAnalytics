@@ -6,17 +6,16 @@
 
 # Introdução do problema
 
-Elaborei algumas análises no conjunto de dados públicos de comércio eletrônico brasileiro por Olist Store, foi primeiramente entendido o problema, em seguida coletado e tratado os dados, logo após relacionado e criado as medidas, e por fim foram feitas as visualizações de dados. Os indicadores do E-Commerce analisados foram: total de pedidos, ticket médio, número de clientes, método de pagamento, faturamento, tempo médio de entrega e situação dos pedidos.  
+Com a finalidade de reter e recrutar talentos, a área de recurso humanos cada vez mais adotam estratégias baseado em dados. Apresento neste dashboard alguns indicadores chaves de perfomance que foram analisados: contratações, demissões, salário, headcount(funcionários ativos), má contratações, faixa etária, sexo, raça, área/departamento e canais de recrutamento.
 
-
-Problema: Localizar regiões de maiores impactos no faturamento e promover visibilidade da situação dos pedidos.
-
+Problema: Qual é o canal mais assertivo para contratar pela organização? Qual é o perfil geral de diversidade da companhia? Analise de períodos de contratações e demissões.
 
 Dataset: Dados foram extraídos do Kaggle (https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
 
-Conclusão: Uma vez que 70% dos clientes são de São Paulo, o Estado tem o maior faturamento e o menor gasto com frete em média. Quanto aos meses de maiores receita é maio e agosto.
+Conclusão: O Indeed/Site de empregos seguido por Linkedin são geralmente os meios que ocorrem as contratações, mas também dependendo em qual área de atuação.
 
-O tempo médio de entrega é de 12 dias, sendo que 92,85% das entregas são entregues no prazo. Referente ao ano de maior quantidade de pedidos no prazo foi de 2016.
+Pessoas que se declaram brancas têm-se expressiva dominância no mercado e a soma de seus salários passam mais da metade do total. Além de ter em todas as faixas etárias uma quantidade superior em pessoas nas organizações. 
+
 
 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYThhNzlhOGMtNzAxOS00MmY0LTk1MzMtZjAwM2M0YTI4YWY4IiwidCI6ImVmMDhmOTQ4LTMzNzItNDA2OC1hZTVkLTg3M2FhODViZTk5NCJ9&pageName=ReportSection8079216eb1cb308ae3e2)
 
